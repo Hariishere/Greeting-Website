@@ -1,6 +1,5 @@
 This Website is hosted in render and it is made solely as a college project for Christmas to motivate students and affirm they have the blessings of their good deeds. It does this by displaying a random message to the user that could be words from the bible or motivational quotes. We attracted users for this website through QR codes placed in the crib of the college. 
 
-**Important Note: Switch to Mobile view as I developed this website by considering the Mobile users.**
 
 **Home Page:**
 
