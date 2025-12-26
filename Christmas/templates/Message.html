@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{% static 'message.css'%}" rel="stylesheet" type="text/css">
+    <title>Merry Christmas</title>
+</head>
+<body style="background-image: url('{% static 'C2.png'%}')">
+    <div class="container">
+        <div class="card">
+            <div class="content">
+                <h1>Word of the God</h1>
+                <p>{{msg}}</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
